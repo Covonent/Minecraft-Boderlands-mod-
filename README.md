@@ -10,3 +10,7 @@ Intructions for downloading and installing:
 2. Once you have forge installed Drag the jar into the mods folder under %appdata%/programs/minecraft/mods
 3. Run your game 
 
+CHANGELOG:
+
+1. Uploaded Eclipse files. Will Upload .Jar soon
+2. Uploaded .Jar file 
